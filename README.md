@@ -1,5 +1,5 @@
 # futurerestore
-_It is a hacked up idevicerestore wrapper, which allows manually specifying SEP and Baseband for restoring._
+###### It is a hacked up idevicerestore wrapper, which allows manually specifying SEP and Baseband for restoring.
 
 **ONLY USE THIS BRANCH IF YOU ARE NOT NEEDING TO RESTORE AN A13 OR A14 DEVICE.
 

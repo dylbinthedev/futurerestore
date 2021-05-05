@@ -137,7 +137,7 @@ Use jailbreak tools for setting boot-nonce generator:
 3. [Electra and ElectraTV](https://coolstar.org/electra) for iOS and tvOS 11.x;
 4. [unc0ver](https://unc0ver.dev) for iOS 11.0-12.2, 12.4.x;
 5. [Chimera and ChimeraTV](https://chimera.sh) for iOS 12.0-12.2, 12.4 and tvOS 12.0-12.2, 12.4.
-6. [Generator Auto Setter and dimentio](https://halo-michael.github.io/repo/) for iOS 13.0-14.4
+6. [Generator Auto Setter and dimentio](https://halo-michael.github.io/repo/) for iOS 13.0-14.5.1
 7. 
 ### Activate tfp0, if jailbreak doesn't allow it
 #### Method 1 (if jailbroken on iOS 9.2-9.3.x)
